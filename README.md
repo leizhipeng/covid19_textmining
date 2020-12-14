@@ -1,6 +1,9 @@
 # Topic Modeling of COVID-19 Open Research Dataset
 
 ***
+A blog describing this project is available at: 
+https://leizhipeng.medium.com/topic-modeling-of-covid-19-open-research-dataset-7474710bfbce
+
 
 ## Purpose
 Finding latent topics for publications on COVID-19 
