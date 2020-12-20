@@ -21,10 +21,10 @@ The dataset is downloaded from [COVID-19 Open Research Dataset Challenge](https:
 While the dataset has information and full text for each paper, I only mine the abstracts in order to simplify the task. The abstracts are in the dataset file “metadata.csv” downloaded on November 9th, 2020.
 
 ## Data pipeline
-![alt text](https://github.com/leizhipeng/covid19_textmining/blob/main/pipeline.png?raw=true)
+![alt text](https://github.com/leizhipeng/covid19_textmining/blob/main/figures/pipeline.png?raw=true)
 
 ## Word clouds of topics
-![alt text](https://github.com/leizhipeng/covid19_textmining/blob/main/wordclouds.png?raw=true)
+![alt text](https://github.com/leizhipeng/covid19_textmining/blob/main/figures/wordclouds.png?raw=true)
 
  
 
