@@ -1,4 +1,4 @@
-.idea
+.idea/
 corpus.pkl
 dictionary.gensim
 LDA_model.gensim
