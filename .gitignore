@@ -7,4 +7,3 @@ LDA_model.gensim.id2word
 LDA_model.gensim.state
 samp_pd.pkl
 text_topics.pkl
-word_cloud.png
