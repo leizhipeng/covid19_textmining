@@ -1,0 +1,10 @@
+.idea/
+corpus.pkl
+dictionary.gensim
+LDA_model.gensim
+LDA_model.gensim.expElogbeta.npy
+LDA_model.gensim.id2word
+LDA_model.gensim.state
+samp_pd.pkl
+text_topics.pkl
+word_cloud.png
