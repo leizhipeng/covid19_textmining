@@ -1,6 +1,7 @@
 ## What Do We Know about Business Insight with COVID-19 Open Research Dataset?--- LDA Topic Modeling 
 ***
-A blog describing this project is available at: 
+* This is a project for Udacity's data science nanoprogram. 
+* A blog describing this project is available at: 
 https://leizhipeng.medium.com/topic-modeling-of-covid-19-open-research-dataset-7474710bfbce
 ***
 ### CONTENTS
