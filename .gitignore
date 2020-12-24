@@ -1,5 +1,4 @@
-.idea/
-.ipynb_checkpoints/
+
 corpus.pkl
 dictionary.gensim
 LDA_model.gensim
